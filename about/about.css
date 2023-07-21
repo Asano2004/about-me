@@ -1,0 +1,28 @@
+@charset "UTF-8";
+h1 {
+    margin-top: 0;
+    margin-bottom: 30px;
+    line-height: 1.5;
+    font-size: 40px;
+    background-color: rebeccapurple
+}
+
+h2 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    line-height: 1.5;
+    font-size: 30px;
+}
+
+.flexbox {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.flex-item {
+    background: orange;
+    border: 2px solid #000;
+    width: 300px;
+    text-align: center;
+}
