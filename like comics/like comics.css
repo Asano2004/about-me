@@ -1,0 +1,53 @@
+@charset "UTF-8";
+h1 {
+    margin-top: 0;
+    margin-bottom: 30px;
+    line-height: 1.5;
+    font-size: 40px;
+    background-color: red
+}
+
+h2 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    line-height: 1.5;
+    font-size: 30px;
+}
+
+.flexbox {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.flex-item {
+    background: gold;
+    border: 2px solid #000;
+    width: 300px;
+    text-align: center;
+}
+
+footer {
+    height: 20vh;
+    background: url(a2p15s0m.bmp ) bottom no-repeat;
+    ;
+}
+
+footer {
+    background-size: 100px 50px;
+}
+
+footer {
+    background-size: 20% 80%;
+}
+
+p {
+    box-sizing: border-box
+}
+
+p.fourColors {
+    border-top: 10px solid #99f;
+    border-bottom: 10px solid #00a;
+    border-left: 10px solid #ccf;
+    border-right: 10px solid #55f;
+}
