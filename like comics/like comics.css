@@ -1,10 +1,9 @@
 @charset "UTF-8";
-h1 {
-    margin-top: 0;
-    margin-bottom: 30px;
-    line-height: 1.5;
-    font-size: 40px;
-    background-color: red
+.title {
+    background-color: red;
+    color: khaki;
+    text-align: center;
+    width: 100%;
 }
 
 h2 {

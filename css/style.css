@@ -6,3 +6,24 @@ h1 {
 li {
     display: flex;
 }
+
+body {
+    background: greenyellow left top repeat;
+}
+
+img {
+    width: 220px;
+    height: 230px;
+    position: absolute;
+    top: 180px;
+    right: 100px;
+}
+
+.container {
+    display: flex;
+    clear: both;
+}
+
+li {
+    flex: 0 0 250px;
+}

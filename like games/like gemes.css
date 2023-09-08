@@ -5,3 +5,16 @@
     text-align: center;
     width: 100%;
 }
+
+.flexbox {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.flex-item {
+    background: gold;
+    border: 2px solid #000;
+    width: 300px;
+    text-align: center;
+}
